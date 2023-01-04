@@ -1,0 +1,15 @@
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/bin/Debug/net6.0/ProjetoAulas
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/bin/Debug/net6.0/ProjetoAulas.deps.json
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/bin/Debug/net6.0/ProjetoAulas.runtimeconfig.json
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/bin/Debug/net6.0/ProjetoAulas.dll
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/bin/Debug/net6.0/ProjetoAulas.pdb
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.csproj.AssemblyReference.cache
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.AssemblyInfoInputs.cache
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.AssemblyInfo.cs
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.csproj.CoreCompileInputs.cache
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.dll
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/refint/ProjetoAulas.dll
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.pdb
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ProjetoAulas.genruntimeconfig.cache
+/Users/denilsoncarvalhodacosta/projects/study/dev.io/fundamentos-c#/ProjetoAulas/obj/Debug/net6.0/ref/ProjetoAulas.dll
