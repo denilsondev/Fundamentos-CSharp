@@ -5,22 +5,31 @@ using Modulo10;
 
 
 // TrabalhandoComStrings();
-TrabalhandoComDatas();
+// TrabalhandoComDatas();
+TrabalhandoComExcecoes();
 
-
- static void TrabalhandoComStrings()
+static void TrabalhandoComStrings()
 {
-   var modulo10 = new TrabalhandoComStrings();
+    var modulo10 = new TrabalhandoComStrings();
 
-   modulo10.AulaReplace();
+    modulo10.AulaReplace();
 
 }
 
- static void TrabalhandoComDatas()
+static void TrabalhandoComDatas()
 {
-   var trabalhandoComDatas = new Modulo11.TrabalhandoComDatas();
+    var trabalhandoComDatas = new Modulo11.TrabalhandoComDatas();
 
-   // trabalhandoComDatas.AulaDateTime();
-   trabalhandoComDatas.AulaSubtraindoDatas();
+    // trabalhandoComDatas.AulaDateTime();
+    trabalhandoComDatas.AulaSubtraindoDatas();
+
+}
+
+static void TrabalhandoComExcecoes()
+{
+    var trabalhandocomExcecoes = new Modulo12.TraabalhandoComExcecoes();
+
+    // trabalhandoComDatas.AulaDateTime();
+    trabalhandocomExcecoes.AulaGerandoException();
 
 }
