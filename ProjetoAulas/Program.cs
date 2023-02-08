@@ -6,13 +6,23 @@ using Modulo10;
 
 // TrabalhandoComStrings();
 // TrabalhandoComDatas();
-TrabalhandoComExcecoes();
+// TrabalhandoComExcecoes();
+TrabalhandoComArquivos();
 
 static void TrabalhandoComStrings()
 {
     var modulo10 = new TrabalhandoComStrings();
 
     modulo10.AulaReplace();
+
+}
+
+static void TrabalhandoComArquivos()
+{
+    var trabalhandoComArquivos = new Modulo13.TrabalhandoComArquivos();
+
+    // trabalhandoComArquivos.AulaDateTime();
+    trabalhandoComArquivos.AulaCriandoArquivos();
 
 }
 
