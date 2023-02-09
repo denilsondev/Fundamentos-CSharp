@@ -7,7 +7,8 @@ using Modulo10;
 // TrabalhandoComStrings();
 // TrabalhandoComDatas();
 // TrabalhandoComExcecoes();
-TrabalhandoComArquivos();
+// TrabalhandoComArquivos();
+TrabalhandoComLinq();
 
 static void TrabalhandoComStrings()
 {
@@ -17,13 +18,26 @@ static void TrabalhandoComStrings()
 
 }
 
+static void TrabalhandoComLinq()
+{
+    var trabalhandoComLinq = new Modulo14.TrabalhandoComLinq();
+
+
+//    trabalhandoComLinq.AulaWhere();
+//    trabalhandoComLinq.AulaCount();
+//    trabalhandoComLinq.AulaOrderBy();
+//    trabalhandoComLinq.AulaTake();
+   trabalhandoComLinq.AulaFirstEFirstOrDefault();
+}
+
+
 static void TrabalhandoComArquivos()
 {
     var trabalhandoComArquivos = new Modulo13.TrabalhandoComArquivos();
 
-    // trabalhandoComArquivos.AulaDateTime();
-    trabalhandoComArquivos.AulaCriandoArquivos();
-
+   //  trabalhandoComArquivos.AulaCriandoArquivos();
+   // trabalhandoComArquivos.AulaLendoArquivo();
+   trabalhandoComArquivos.AulaExcluindoArquivo();
 }
 
 static void TrabalhandoComDatas()

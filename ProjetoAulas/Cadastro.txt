@@ -1,6 +1,0 @@
-ID... 72
-Nome... denilson
------------
-ID... 27
-Nome... chama
------------
